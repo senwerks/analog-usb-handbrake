@@ -15,7 +15,7 @@ A conversion kit to turn any real car handbrake (eg cheap drift/race handbrakes 
 
 ## Instructions
 
-1. Attach [Potentiometer Bracket](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Potentiometer Bracket.stl) to the back of the potentiometer.
+1. Attach [Potentiometer Bracket](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Potentiometer-Bracket.stl) to the back of the potentiometer.
 
 ![Potentiometer Bracket](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/PotentiometerBracket1.jpg)
 
@@ -25,11 +25,11 @@ A conversion kit to turn any real car handbrake (eg cheap drift/race handbrakes 
 
 ![Potentiometer Bracket](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/PotentiometerBracket2.jpg)
 
-3. Clip the [Connecting Arm](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Connecting Arm.stl) to the potentiometer slider and then put a bolt through the other end to attach it to the handbrake lever itself.
+3. Clip the [Connecting Arm](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Connecting-Arm.stl) to the potentiometer slider and then put a bolt through the other end to attach it to the handbrake lever itself.
 
 4. Flash [the Arduino code](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Arduino-Analog-USB-Handbrake/Arduino-Analog-USB-Handbrake.ino) onto the Arduino Leonardo/Pro Micro, and connect the wiring (Pot pin 1 to VCC, pot pin 2 to A0, and pot pin 3 to GND).
 
-5. Place the Arduino into the [Arduino Case](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Connecting Arm.stl) to insulate the back of the Arduino from touching the metal handbrake parts, and hot glue it into place.
+5. Place the Arduino into the [Arduino Case](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/Arduino-Case.stl) to insulate the back of the Arduino from touching the metal handbrake parts, and hot glue it into place.
 
 6. Go get sideways!
 
