@@ -21,7 +21,7 @@ A conversion kit to turn any real car handbrake (eg cheap drift/race handbrakes 
 
 2. Strip the handbrake of all non-required parts. You just need the handbrake lever itself and the supporting frame.
 
-3. Attach the sliding pot brakcet to the inside edge of the handbrake frame/chassis.
+3. Attach the sliding pot bracket to the inside edge of the handbrake frame/chassis.
 
 ![Potentiometer Bracket](https://github.com/obsoletenerd/analog-usb-handbrake/blob/master/PotentiometerBracket2.jpg)
 
